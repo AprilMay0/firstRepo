@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 This is the third version
+=======
+>>>>>>> parent of cd5a1bd... Added some text
