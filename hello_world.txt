@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is the third version
 =======
 >>>>>>> parent of cd5a1bd... Added some text
+=======
+This is the second version
+>>>>>>> parent of e57eacf... Revert "Added some text"
